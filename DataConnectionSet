@@ -3,6 +3,7 @@
   <Item class="Forguncy.Model.Tables.DataConnectionInfo" assembly="Forguncy">
     <ConnectionString>Data Source=orcl;User ID=system;Password=Ora23456;Unicode=True</ConnectionString>
     <DataBaseType>Oracle</DataBaseType>
+    <EConnectionString>z6S/uP9vfTUeYkyb/9m82Ob6oZpxtjOsGH1uQlBK9YphO+A6/PNcbjNin4imGNrZKs7UDFmWWfJfDdXHKIffZw==</EConnectionString>
     <ID>3595c74d-f4fb-4bd0-b2de-e88fe1f656a2</ID>
   </Item>
 </DataConnectionSet>

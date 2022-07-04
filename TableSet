@@ -43,9 +43,9 @@
       </Columns>
       <ExternalDatabaseInfo>
         <DataBaseType>Oracle</DataBaseType>
+        <ESourceConnectString>2qIM9dryrHx5yVIfU+lj5SJWUvEBi99Ekf5JApXBv6cjubpKCP7upWTo1TC3O/3KrUtEwyxcsboHOf3+nChAAA==</ESourceConnectString>
         <SourceConnectString>Data Source=orcl;User ID=system;Password=Ora23456;Unicode=True</SourceConnectString>
         <SourceTableName>商品テーブル</SourceTableName>
-        <SourceTableSchema></SourceTableSchema>
       </ExternalDatabaseInfo>
       <Name>商品テーブル</Name>
       <PrimaryKey>

@@ -1,0 +1,7 @@
+[
+  {
+    "ConnectionString": "Data Source=orcl;User ID=system;Password=Ora23456;Unicode=True",
+    "DataBaseType": 3,
+    "ID": "3595c74d-f4fb-4bd0-b2de-e88fe1f656a2"
+  }
+]

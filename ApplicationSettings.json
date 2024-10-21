@@ -8,6 +8,7 @@
   "UserServicePort": 58980,
   "NotAllowModifyDatabaseByJsApi": false,
   "NotAllowSendMailByJsApi": false,
+  "StartPage": "ページ1",
   "StartDateFiscalYear": 4,
   "MaxRowCount": 10000000,
   "AuditingList": {
